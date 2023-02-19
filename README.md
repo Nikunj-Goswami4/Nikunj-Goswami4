@@ -40,5 +40,5 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/thenikunjgoswami?igshid=YmMyMTA2M2Y="> <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 </p>
 
-<br><br><br><br><br><br><br>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br><br>
+<img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">

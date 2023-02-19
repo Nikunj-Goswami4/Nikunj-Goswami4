@@ -13,11 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<table>
+  <tr>
+    <td>
 - 👋 Hi, I’m @Nikunj-Goswami4
 - 🌱 Currently learning Web Dev
 - 💞️ Looking forward for collaboration
 - 📫 Reach me on Insta - @thenikunjgoswami
+    </td>
+    <td>
+    </td>
+    <img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+   </tr>
+</table
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikunj-Goswami4&label=Profile%20views&color=0e75b6&style=flat" alt="Nikunj-Goswami4" /> </p>
@@ -39,6 +47,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/nikunj-goswami-0159a4240"> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
   <a href="https://instagram.com/thenikunjgoswami?igshid=YmMyMTA2M2Y="> <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 </p>
-
+<!--
 <br><br>
 <p align="center"> <img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </p>
+-->

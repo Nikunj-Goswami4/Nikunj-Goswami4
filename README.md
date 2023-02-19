@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p> 
   <a href="https://www.youtube.com/@nikunjgoswami1081"> <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> </a>
-  <a href="https://instagram.com/thenikunjgoswami?igshid=YmMyMTA2M2Y="> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
-  <a href="https://www.linkedin.com/in/nikunj-goswami-0159a4240"> <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
+  <a href="https://www.linkedin.com/in/nikunj-goswami-0159a4240"> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+  <a href="https://instagram.com/thenikunjgoswami?igshid=YmMyMTA2M2Y="> <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 </p>
 

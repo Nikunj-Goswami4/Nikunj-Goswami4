@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 </p>
 
 <br><br>
-<p align="center"> <img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </p>
+<p align="left"> <img align="left" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </p>
 

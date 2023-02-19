@@ -34,11 +34,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p> 
+  <a href="https://www.youtube.com/@nikunjgoswami1081"> <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> </a>
+  <a href="https://instagram.com/thenikunjgoswami?igshid=YmMyMTA2M2Y="> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+  <a href="https://www.linkedin.com/in/nikunj-goswami-0159a4240"> <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
+</p>
 
-
-[youtube]: [https://www.youtube.com/channel/UC1o_nVc91_PpntAQCeFdEYw/featured](https://www.youtube.com/@nikunjgoswami1081)
-[instagram]: [https://www.instagram.com/_raval_hardik/](https://instagram.com/thenikunjgoswami?igshid=YmMyMTA2M2Y=)
-[linkedin]: [https://www.linkedin.com/in/hardik-raval-117735192/](https://www.linkedin.com/in/nikunj-goswami-0159a4240)

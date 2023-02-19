@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 -->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikunj-Goswami4&show_icons=true&locale=en" alt="Nikunj-Goswami4"  width="47%" hieght="50%"/> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunj-Goswami4" alt="Nikunj-Goswami4" width="47%" height="20%"/></p>
 
-<p> <b> Languages: </b> </p>
+<br><br>
 
+<p> <b> Languages: </b> </p>
+<br>
 <p> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   
